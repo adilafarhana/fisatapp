@@ -12,6 +12,7 @@ function App() {
       <Route path='/'element={<AddStudent/>}/>
       <Route path='/search'element={<SearchStudent/>}/>
       <Route path='/ViewStudent'element={<ViewStudent/>}/>
+      <Route path='/fisat'element={<Fisat/>}/>
     </Routes>
     </BrowserRouter>
   );

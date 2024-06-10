@@ -19,6 +19,7 @@ const SearchStudent = () => {
     
   return (
     <div>
+        <h1><center>SEARCH STUDENT DETAILS</center></h1>
         <NavStudent/>
         <div className="container">
             <div className="row">
